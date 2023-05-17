@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   // fix loi caught ReferenceError: global is not defined
   define: {
-    "global" : {}
+    "global" : 'window'
   }
 })
