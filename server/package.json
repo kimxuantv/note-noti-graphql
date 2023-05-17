@@ -21,6 +21,7 @@
     "esm": "^3.2.25",
     "express": "^4.18.2",
     "firebase-admin": "^11.8.0",
+    "graphql": "^16.6.0",
     "graphql-subscriptions": "^2.0.0",
     "graphql-ws": "^5.13.1",
     "http": "^0.0.1-security",
